@@ -1,4 +1,4 @@
-# program 2Aydin(HD)
+# program @Aydin(HD)
 #安装python环境体验程序的便携吧
 
 你打字速度再快，她离开你能追的上吗
