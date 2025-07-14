@@ -18,7 +18,7 @@ Ctrl+c and Ctrl+v才是程序员的基本工
 
 这是大二上学期，林轩在校园创客大赛中看到了苏妍的智慧医疗项目。当她的项目因为数据处理问题濒临崩溃时，林轩用三行Python代码重构了她的核心算法：
 
-# 旧代码（效率低下）
+旧代码（效率低下）
 def process_data(data):
     result = []
     for item in data:
@@ -27,7 +27,7 @@ def process_data(data):
             result.append(cleaned)
     return result
 
-# 林轩的优化
+林轩的优化
 def optimized_process(data):
     return [clean(item) for item in data if item['valid']]
 那晚实验室只亮着他们头顶的灯。当程序输出完美的结果曲线时，苏妍眼中闪烁的光芒比编译成功的提示更让林轩心跳加速。"原来代码可以这么美，"她轻声说，"像一首没写出来的诗。"
